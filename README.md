@@ -10,15 +10,21 @@
 🎥[Video Presentation link](https://lnkd.in/g9VXHrVi)
 
 **🛠 Tools Used**
+
 Power BI: For Data Modeling and Visualization
+
 PowerPoint: For presentation
+
 OBS Studio: For recording video
 
 **💰Business Terminology**
+
 CAGR -Compounded Annual Growth Rate
+
 PR-Penetration Rate
 
 **Primary and Secondary Analysis**
+
 ✨Primary Insights
   1. List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold. 
   2. Identify the top 5 states with the highest penetration rate in 2-wheeler and 4-wheeler EV sales in FY 2024. 
@@ -32,16 +38,18 @@ PR-Penetration Rate
   10. Estimate the revenue growth rate of 4-wheeler and 2-wheelers EVs in India for 2022 vs 2024 and 2023 vs 2024.
 
 ✨Secondary Insights
-  1. What are the primary reasons for customers choosing 4-wheeler EVs in 2023 and 2024 (cost savings, environmental concerns, government 
-  incentives)? 
-  2. How do government incentives and subsidies impact the adoption rates of 2-wheelers and 4-wheelers? Which states in India provided       most subsidies? 
+  1. What are the primary reasons for customers choosing 4-wheeler EVs in 2023 and 2024 (cost savings, environmental concerns, government incentives)? 
+  2. How do government incentives and subsidies impact the adoption rates of 2-wheelers and 4-wheelers? Which states in India provided most subsidies? 
   3. How does the availability of charging stations infrastructure correlate with the EV sales and penetration rates in the top 5 states? 
   4. Who should be the brand ambassador if AtliQ Motors launches their EV/Hybrid vehicles in India and why? 
-  5. Which state of India is ideal to start the manufacturing unit? (Based on subsidies provided, ease of doing business, stability in       governance etc.) 
+  5. Which state of India is ideal to start the manufacturing unit? (Based on subsidies provided, ease of doing business, stability in governance etc.) 
   6. Your top 3 recommendations for AtliQ Motors.
 
 **📋𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬**
 
+
 *Target market in  states with the greatest potential for EV adoption and growth.
+
 *Highlight and promote best-selling vehicle categories.
+
 *Plan for long-term investments in R&D and infrastructure to have a significant share in future market.
