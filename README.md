@@ -3,9 +3,8 @@
   
   AtliQ Motors is an automotive giant from the USA specializing in electric vehicles (EV).In the last 5 years, their market share rose to 25% in electric and hybrid vehicles segment in North America. As a part of their expansion plans, they wanted to launch their bestselling models in India where their market share is less than 2%.
 
-[Link to Resume Challenge DataSets](12-https://codebasics.io/challenge/codebasics-resume-project-challenge)
-
 [live Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiNDMxYWRiYjktZTljZi00MGRlLWFiZTEtMjM2MDc3N2NmMzcyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=b1a74083ede1dad7a60d)
+
 [LinkedIn post](https://www.linkedin.com/posts/mounika-vemula9423_%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-activity-7231238639509286912-26Iy?utm_source=share&utm_medium=member_desktop)
 
 🎥[Video Presentation link](https://lnkd.in/g9VXHrVi)
